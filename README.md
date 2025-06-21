@@ -9,14 +9,13 @@ Hospital Analytics Dashboard is a modern, interactive Power BI solution that del
 
 3. Tech Stack
 The dashboard was built using the following tools and technologies:
-
-📊 Power BI Desktop – For building interactive visual dashboards and report pages.
-📂 Power Query – Used to clean, transform, and shape data before loading it into the model.
-🧠 DAX (Data Analysis Expressions) – For creating calculated columns, measures, and implementing dynamic user-specific logic.
-📘 Data Modeling – Designed using a star schema with well-defined relationships across tables like patients, doctors, appointments, finance, and medicine stock.
-🔐 Row-Level Security (RLS) – Enables secure, role-specific data access so users see only relevant information.
-🗃️ SQL (Structured Query Language) – Used to extract and query hospital data from the relational database before importing it into Power BI.
-📁 File Format – .pbix for Power BI dashboard reports, .png for dashboard screenshots and previews.
+• 📊 Power BI Desktop – For building interactive visual dashboards and report pages.
+• 📂 Power Query – Used to clean, transform, and shape data before loading it into the model.
+• 🧠 DAX (Data Analysis Expressions) – For creating calculated columns, measures, and implementing dynamic user-specific logic.
+• 📝 Data Modeling – Designed using a star schema with well-defined relationships across tables like patients, doctors, appointments, finance, and medicine stock.
+• 🔐 Row-Level Security (RLS) – Enables secure, role-specific data access so users see only relevant information.
+• 🗃️ SQL (Structured Query Language) – Used to extract and query hospital data from the relational database before importing it into Power BI.
+• 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
 Source: Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains.
@@ -77,6 +76,7 @@ Finance can track revenue, spending, and cost optimization opportunities.
 Patients can transparently view their health journey.
 Strategic Planning: Identify trends across departments and patient demographics for long-term planning.
 
+6. Screenshot: 
 
 
 

@@ -78,7 +78,7 @@ Patients can transparently view their health journey.
 Strategic Planning: Identify trends across departments and patient demographics for long-term planning.
 
 6. Screenshot: 
-
+(https://github.com/prateekrastogi23/Power-BI---Hospital-Analysis-Dashboard/blob/main/Snapshot%20of%20Hospital%20Dashboard%20.png)
 
 
 

@@ -22,17 +22,17 @@ Source-:
 Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains.
 This dataset was originally sourced from Kaggle and enriched to include key entities across a typical hospital management system.
 
-Data Tables Included-:
-Patients – Demographic details, assigned doctors, diagnosis records, and treatment plans.
-Doctors – Doctor names, departments, consultation counts, earnings, and number of patients handled.
-Appointments – Scheduling data including doctor-patient linkage, visit dates, status (attended/cancelled), and purpose of visit.
-Medicine Stock – Details on available inventory, supplier names, medicine categories, stock quantities, and purchase costs.
-Finance – Billing amounts, service charges, total revenue, and monthly financial trends.
-Surgeries – Surgery types, departments, and distribution across different patient age groups.
+ Data Tables Included-:
+ Patients – Demographic details, assigned doctors, diagnosis records, and treatment plans.
+ Doctors – Doctor names, departments, consultation counts, earnings, and number of patients handled.
+ Appointments – Scheduling data including doctor-patient linkage, visit dates, status (attended/cancelled), and purpose of visit.
+ Medicine Stock – Details on available inventory, supplier names, medicine categories, stock quantities, and purchase costs.
+ Finance – Billing amounts, service charges, total revenue, and monthly financial trends.
+ Surgeries – Surgery types, departments, and distribution across different patient age groups.
 
-6. Features
-Business Problem-:
-Hospitals often struggle with managing diverse operational data scattered across departments—leading to inefficiencies in decision-making, reporting delays, lack of personalized insights, and data privacy issues. Key stakeholders (e.g., doctors, patients, finance staff) need tailored access, yet traditional systems offer one-size-fits-all reports.
+5. Features
+ Business Problem-:
+ Hospitals often struggle with managing diverse operational data scattered across departments—leading to inefficiencies in decision-making, reporting delays, lack   of personalized insights, and data privacy issues. Key stakeholders (e.g., doctors, patients, finance staff) need tailored access, yet traditional systems offer    one-size-fits-all reports.
 
 Goal of the Dashboard-:
 To build a secure, role-specific, interactive dashboard that:

@@ -18,9 +18,10 @@ The dashboard was built using the following tools and technologies:
 - 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source-
--- a. Source: Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains. This dataset was originally sourced from Kaggle and enriched to include key entities across a typical hospital management system.
 
--- b. Data Tables Included:
+--a. Source: Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains. This dataset was originally sourced from Kaggle and enriched to include key entities across a typical hospital management system.
+
+--b. Data Tables Included:
 - Patients: Demographic details, assigned doctors, diagnosis records, and treatment plans.
 - Doctors: Doctor names, departments, consultation counts, earnings, and number of patients handled.
 - Appointments: Scheduling data including doctor-patient linkage, visit dates, status (attended/cancelled), and purpose of visit.
@@ -29,7 +30,8 @@ The dashboard was built using the following tools and technologies:
 - Surgeries: Surgery types, departments, and distribution across different patient age groups.
 
 5. Features-
- a. Business Problem: Hospitals often struggle with managing diverse operational data scattered across departments—leading to inefficiencies in decision-making, reporting delays, lack   of personalized insights, and data privacy issues. Key stakeholders (e.g., doctors, patients, finance staff) need tailored access, yet traditional systems offer one-size-fits-all reports.
+   
+--a. Business Problem: Hospitals often struggle with managing diverse operational data scattered across departments—leading to inefficiencies in decision-making, reporting delays, lack   of personalized insights, and data privacy issues. Key stakeholders (e.g., doctors, patients, finance staff) need tailored access, yet traditional systems offer one-size-fits-all reports.
 
 b. Goal of the Dashboard:
 - To build a secure, role-specific, interactive dashboard that:

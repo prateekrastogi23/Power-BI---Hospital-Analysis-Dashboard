@@ -9,26 +9,25 @@ Hospital Analytics Dashboard is a modern, interactive Power BI solution that del
 
 3.  Tech Stack
 The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – For building interactive visual dashboards and report pages.
-• 📂 Power Query – Used to clean, transform, and shape data before loading it into the model.
-• 🧠 DAX (Data Analysis Expressions) – For creating calculated columns, measures, and implementing dynamic user-specific logic.
-• 📝 Data Modeling – Designed using a star schema with well-defined relationships across tables like patients, doctors, appointments, finance, and medicine stock.
-• 🔐 Row-Level Security (RLS) – Enables secure, role-specific data access so users see only relevant information.
-• 🗃️ SQL (Structured Query Language) – Used to extract and query hospital data from the relational database before importing it into Power BI.
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+- 📊 Power BI Desktop – For building interactive visual dashboards and report pages.
+- 📂 Power Query – Used to clean, transform, and shape data before loading it into the model.
+- 🧠 DAX (Data Analysis Expressions) – For creating calculated columns, measures, and implementing dynamic user-specific logic.
+- 📝 Data Modeling – Designed using a star schema with well-defined relationships across tables like patients, doctors, appointments, finance, and medicine stock.
+- 🔐 Row-Level Security (RLS) – Enables secure, role-specific data access so users see only relevant information.
+- 🗃️ SQL (Structured Query Language) – Used to extract and query hospital data from the relational database before importing it into Power BI.
+- 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
-Source-:
-Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains.
-This dataset was originally sourced from Kaggle and enriched to include key entities across a typical hospital management system.
+a. Source-:
+Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains. This dataset was originally sourced from Kaggle and enriched to include key entities across a typical hospital management system.
 
- Data Tables Included-:
- Patients – Demographic details, assigned doctors, diagnosis records, and treatment plans.
- Doctors – Doctor names, departments, consultation counts, earnings, and number of patients handled.
- Appointments – Scheduling data including doctor-patient linkage, visit dates, status (attended/cancelled), and purpose of visit.
- Medicine Stock – Details on available inventory, supplier names, medicine categories, stock quantities, and purchase costs.
- Finance – Billing amounts, service charges, total revenue, and monthly financial trends.
- Surgeries – Surgery types, departments, and distribution across different patient age groups.
+b. Data Tables Included-:
+- Patients: Demographic details, assigned doctors, diagnosis records, and treatment plans.
+- Doctors: Doctor names, departments, consultation counts, earnings, and number of patients handled.
+- Appointments: Scheduling data including doctor-patient linkage, visit dates, status (attended/cancelled), and purpose of visit.
+- Medicine Stock: Details on available inventory, supplier names, medicine categories, stock quantities, and purchase costs.
+- Finance: Billing amounts, service charges, total revenue, and monthly financial trends.
+- Surgeries: Surgery types, departments, and distribution across different patient age groups.
 
 5. Features
  Business Problem-:

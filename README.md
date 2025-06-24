@@ -19,9 +19,9 @@ The dashboard was built using the following tools and technologies:
 
 4. Data Source-
 
---a. Source: Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains. This dataset was originally sourced from Kaggle and enriched to include key entities across a typical hospital management system.
+-- a. Source: Simulated and anonymized hospital data collected from Kaggle and curated to represent real-world healthcare operations and domains. This dataset was originally sourced from Kaggle and enriched to include key entities across a typical hospital management system.
 
---b. Data Tables Included:
+-- b. Data Tables Included:
 - Patients: Demographic details, assigned doctors, diagnosis records, and treatment plans.
 - Doctors: Doctor names, departments, consultation counts, earnings, and number of patients handled.
 - Appointments: Scheduling data including doctor-patient linkage, visit dates, status (attended/cancelled), and purpose of visit.
@@ -31,16 +31,16 @@ The dashboard was built using the following tools and technologies:
 
 5. Features-
    
---a. Business Problem: Hospitals often struggle with managing diverse operational data scattered across departments—leading to inefficiencies in decision-making, reporting delays, lack   of personalized insights, and data privacy issues. Key stakeholders (e.g., doctors, patients, finance staff) need tailored access, yet traditional systems offer one-size-fits-all reports.
+-- a. Business Problem: Hospitals often struggle with managing diverse operational data scattered across departments—leading to inefficiencies in decision-making, reporting delays, lack   of personalized insights, and data privacy issues. Key stakeholders (e.g., doctors, patients, finance staff) need tailored access, yet traditional systems offer one-size-fits-all reports.
 
-b. Goal of the Dashboard:
+-- b. Goal of the Dashboard:
 - To build a secure, role-specific, interactive dashboard that:
 - Gives doctors access to only their patients and performance metrics.
 - Lets patients view only their data.
 - Provides the finance team with full visibility into billing, charges, and inventory.
 - Equips hospital management with a unified view of KPIs, resource allocation, and performance trends.
 
-c. Walkthrough of Key Visuals:
+-- c. Walkthrough of Key Visuals:
 - Overview Dashboard
 KPIs like: Total Patients, Doctors, Appointments, Revenue.
 Cards, gauges, and bar charts showing hospital-wide stats.
@@ -64,12 +64,12 @@ Total billing and monthly revenue trends.
 Charges per patient and medicine expense breakdown.
 Stock details and supplier-wise cost tracking.
 
-d. Business Impact & Insights:
+-- d. Business Impact & Insights:
 Improved Decision-Making: Real-time access to hospital KPIs enables faster, evidence-based decisions.
 Data Privacy & Security: Implemented Row-Level Security (RLS) ensures sensitive data is protected and only visible to authorized users.
 Operational Efficiency: Helps management track appointments, surgeries, and stock levels proactively.
 
-e. User-Specific Insights:
+-- e. User-Specific Insights:
 Doctors can monitor their performance and patient load.
 Finance can track revenue, spending, and cost optimization opportunities.
 Patients can transparently view their health journey.

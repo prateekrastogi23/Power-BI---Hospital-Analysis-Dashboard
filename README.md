@@ -1,4 +1,4 @@
-# Power-BI---Hospital-Analysis-Dashboard
+# Power-BI--Hospital-Analysis-Dashboard
 
 1.  Project Title-
 Hospital Performance Dashboard:
